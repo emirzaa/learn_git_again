@@ -1,4 +1,0 @@
-//tes1
-public class third.txt{
-
-}
